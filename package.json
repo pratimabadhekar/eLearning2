@@ -1,0 +1,22 @@
+{
+  "name": "elearning2",
+  "version": "1.0.0",
+  "description": "this is new E-Learning repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratimabadhekar/eLearning2.git"
+  },
+  "author": "ABC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratimabadhekar/eLearning2/issues"
+  },
+  "homepage": "https://github.com/pratimabadhekar/eLearning2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
